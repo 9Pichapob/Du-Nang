@@ -1,0 +1,81 @@
+{
+"name": "๋Du Nang",
+"author": "๋Jake 16/06/2024",
+"image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif ",
+"url": "https://yamcode.com/raw/jp-entertainment",
+"groups": [
+
+{
+"name"         :     "Jake Series",
+"image"        :     "https://img2.imgbiz.com/imgbiz/33.gif",
+"url"          :     "https://note.vg/raw/jake-series",
+"import": false
+},
+{
+"name": "ซีรีย์ที่ชอบ",
+"image": "https://img2.imgbiz.com/imgbiz/35.gif", "url":"https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยนbyอุ๋งอุ๋ง/123-hd_ซีรี่ย์พากย์ไทย.w3u",
+"import": false
+},
+{
+"name": "ห้องวางหนัง",
+"image": "https://img2.imgbiz.com/imgbiz/34.gif",
+"url": "https://yamcode.com/raw/hong-wang-nang",
+"import": false
+},
+{
+"name": "หนังไทย",
+"image": "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
+"url": "https://www.dropbox.com/scl/fi/yxcksv3vtn4tp8efbxwrz/.w3u?rlkey=4kcy7vo01i25fevaagbbolnpf&st=jsrlc3fk&dl=1",
+"import": false
+},
+{
+"name"         :     "หนังแขก",
+"image"        :     "https://img2.imgbiz.com/imgbiz/48.jpg",
+"url"          :     "https://pastebin.ai/raw/yxkuseiphi",
+"import": false
+},
+{
+"name": "หนังจีน",
+"image": "https://img2.pic.in.th/pic/Movies.gif",
+"url": "https://pastebin.ai/raw/4ejjtvobjb",
+"import": false
+},
+{
+"name": "New Movies",
+"image": "https://img2.pic.in.th/pic/Movies.gif",
+"url": "https://note.vg/raw/new-movies",
+"import": false
+},
+{
+"name": "หนังภาคต่อ",
+"image": "https://img2.pic.in.th/pic/hi-everybody-mickey-mouse.gif",
+"url": " https://pastebin.ai/raw/6mc8pnpyjo",
+"import": false
+},
+{
+"name": "Movie Time",
+"image": "https://img2.pic.in.th/pic/movie-time.gif",
+"url": "https://note.vg/raw/movie-time",
+"import": false
+},
+{
+"name": "sequel movie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url":"https://note.vg/raw/jake-tv2-9",
+"import": false
+},
+{
+"name": "นี่ก็มีหนัง",
+"image": "https://img2.imgbiz.com/imgbiz/35.gif",
+"url": "https://pastebin.ai/raw/9oepow78n5",
+"import": false
+},
+{
+"name": "หนังการ์ตูน",
+"image": "https://149363654.v2.pressablecdn.com/wp-content/uploads/2013/10/mgm-cat-gif-durentis-tumblr_large.gif",
+"url":"https://dl.dropboxusercontent.com/s/mnxjikrqr9oy2ns/หนังการ์ตูน.txt?dl=1",
+"import": false
+},
+
+]
+}
