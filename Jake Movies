@@ -10,56 +10,41 @@ author:"UPDATE 12 Oct 2024",
                 "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/Jake%20Movies",
                 "import": "false" },
 
-	{
-		"name": "123-HD",
-		"author": "เจียว เจียว",
-		"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-        "url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/123HD",
-        "import": "true"
-    },
-	{
-		"name": "Seriesday",
-		"author": "เจียว เจียว",
-		"image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-        "url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/Seriesday",
-        "import": "true"
-    },
-  	{
-		 "name": "9NUNGHD",
-		 "author": "เจียว เจียว",
-		 "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-         "url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/9NUNGHD",
-         "import": "true"
-    },
-  	{
-        "name": "037hdmovie",
-        "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
-        "url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/037hdmovie",
-       "import": "true"
-    },
-  	{
-		"name": "DE88",
-		"author": "เจียว เจียว",
-		"image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
-		"url": "https://raw.githubusercontent.com/9jaketae/Playlist/refs/heads/main/DE88%20Movies",
-      "import": "true"
-},
+
 {
-"name": "Jake Movies 1",
-"image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
-"url": "https://pastebin.com/raw/hM5C75Uk",
+"name": "หนังไทย2",
+"image": "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
+"url": "https://raw.githubusercontent.com/9Pichapob/test/main/Thai%20Film%202",
 "import": "true"
 },
 {
-"name": "Jake Movies 2",
-"image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
-"url": "https://freenote.biz/raw/jVgKALRvtd",
+"name": "หนังภาคต่อ",
+"image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+"url": "https://raw.githubusercontent.com/9Pichapob/test/refs/heads/main/Sequel%20Film",
 "import": "true"
 },
 {
-"name": "sequel movie",
+"name": "หนังอินเดีย",
+"image": "https://img2.imgbiz.com/imgbiz/48.jpg",
+"url": "https://dl.dropboxusercontent.com/scl/fi/zk903smasjknr5tb4qkk6/.w3u?rlkey=sebwit9p8pxyqe1g4d730pr6a&st=xd4wa4e9&dl=0",
+"import": "true"
+},
+{
+"name": "ซีรีย์พากษ์ไทย",
+"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+"url": "https://dl.dropboxusercontent.com/scl/fi/4y38c7hvvkjo20p3ghems/.txt?rlkey=qfyvro9e2muftg8m67haoip6w&st=4vbyhd2j&dl=0",
+"import": "true"
+},
+{
+"name": "Korean Movie",
+"image": "https://img5.pic.in.th/file/secure-sv1/wei.gif",
+"url": "https://freenote.biz/raw/zknTU6a4gF",
+"import": "true"
+},
+{
+"name": "Series Movies",
 "image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url":"https://note.vg/raw/jake-tv2-9",
+"url":"https://pastejustit.com//raw/4ejjtvobjb",
 "import": "true"
 },
 {
@@ -75,27 +60,15 @@ author:"UPDATE 12 Oct 2024",
 "import": "true"
 },
 {
-"name" : "หนังอินเดีย",
-"image" : "https://img2.pic.in.th/pic/Movies.gif",
-"url" : "https://www.dropbox.com/scl/fi/zk903smasjknr5tb4qkk6/.w3u?rlkey=sebwit9p8pxyqe1g4d730pr6a&st=xd4wa4e9&dl=1",
+"name" : "Indian Movies",
+"image" : "https://img2.imgbiz.com/imgbiz/48.jpg",
+"url" : "https://pastejustit.com/raw/yxkuseiphi",
 "import": "true"
 },
 {
-"name"         :     "ซีรีย์พากษ์ไทย",
-"image"        :     "https://img2.pic.in.th/pic/ec8a56ab3921dfffaa006f0bdcbc6a77.jpeg",
-"url"          :     "https://www.dropbox.com/scl/fi/4y38c7hvvkjo20p3ghems/.txt?rlkey=qfyvro9e2muftg8m67haoip6w&st=4vbyhd2j&dl=1",
-"import": "true"
-},
-{
-"name" : "movie-time	",
-"image" : "https://img2.pic.in.th/pic/movie-time.gif",
-"url" : "https://note.vg/raw/movie-time",
-"import": "true"
-},
-{
-"name"         :     "new movies",
-"image"        :     "https://img2.pic.in.th/pic/tiny-toons-looniversity-babs-bunny.gif",
-"url"          :     "https://note.vg/raw/new-movies",
+"name"         :     "รวมหนัง",
+"image"        :     "https://img2.imgbiz.com/imgbiz/Collection.jpeg",
+"url"          :     "https://pastejustit.com/raw/zhvrnyuicv",
 "import": "true"
 },
 {
@@ -105,27 +78,39 @@ author:"UPDATE 12 Oct 2024",
 "import": "true"
 },
 {
-"name" : "JakeTVandMovies",
-"image" : "https://img2.pic.in.th/pic/movie-time.gif",
+"name" : "หนังเกาหลี",
+"image" : "https://img5.pic.in.th/file/secure-sv1/23-JakeMoviesTV.jpeg",
 "url" : "https://freenote.biz/raw/zknTU6a4gF",
 "import": "true"
 },
 {
-"name"         :     "ห้องวางหนัง",
+"name"         :     "Jakeหนัง",
 "image"        :     "https://img5.pic.in.th/file/secure-sv1/65.gif",
-"url"          :     "https://yamcode.com/raw/hong-wang-nang",
+"url"          :     "https://pastejustit.com/raw/zhvrnyuicv",
 "import": "true"
 },
 {
-"name"         :     "ช่องรวมหนัง",
+"name"         :     "Jake Nang   หนังภาคต่อ",
 "image"        :     "https://img2.imgbiz.com/imgbiz/47.jpg",
-"url"          :     "https://yamcode.com/raw/hong-wang-nang",
+"url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
 "import": "true"
 },
 {
-"name"              :     "ดูหนัง",
+"name"              :     "Series Thai dubbed",
 "image"             :     "https://img2.pic.in.th/pic/fun-tv.gif",
-"url"               :     "https://yamcode.com/raw/jp-entertainment",
+"url"               :     "https://pastejustit.com/raw/akaexffl0o",
+"import": "true"
+},
+{
+"name": "Walking dead",
+"image": "https://www.kubhd.com/wp-content/uploads/2024/04/The-Walking-Dead-The-Ones-Who-Live-2024.webp",
+"url": "https://drive.google.com/uc?id=1LR54Y7mgduci2S4HuyPSf5wZUfpBWGzX",
+"import": "true"
+},
+{
+"name": "Prison Break",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
+"url": "https://drive.google.com/uc?id=1Qnb_uPyQjWd1nQOK67OXNm7i7Prs87FH",
 "import": "true"
 },
  
