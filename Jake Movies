@@ -10,13 +10,6 @@ author:"UPDATE 12 Oct 2024",
                 "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/Jake%20Movies",
                 "import": "false" },
 
-
-{
-"name": "หนังไทย2",
-"image": "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
-"url": "https://raw.githubusercontent.com/9Pichapob/test/main/Thai%20Film%202",
-"import": "true"
-},
 {
 "name": "หนังภาคต่อ",
 "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
@@ -99,6 +92,12 @@ author:"UPDATE 12 Oct 2024",
 "name"              :     "Series Thai dubbed",
 "image"             :     "https://img2.pic.in.th/pic/fun-tv.gif",
 "url"               :     "https://pastejustit.com/raw/akaexffl0o",
+"import": "true"
+},
+{
+ "name": "Jake Series",
+ "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
+"url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/Jake%20Series",
 "import": "true"
 },
 {
