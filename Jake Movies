@@ -11,6 +11,18 @@ author:"UPDATE 2 Dec 2024",
                 "import": "false" },
 
 {
+"name" : "MOVIES",
+"image" : "https://img2.imgbiz.com/imgbiz/maxr.jpg	",
+"url" : "https://freenote.biz/raw/uw9ppzr79z",
+"import": "true"
+},
+{
+"name":     "🎬 MOVIES & Series & CATOON",
+"image":  "https://dl.dropboxusercontent.com/scl/fi/99plermr0x9up9f259nc2/LuxdotvLOGO.png?rlkey=oddydjexiir5fuiljnn5i674i&dl=0",
+"url": "https://yamcode.com/raw/j-2-50053",
+"import": "true"
+},
+{
 "name": "ซีรีย์พากษ์ไทย",
 "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
 "url": "https://dl.dropboxusercontent.com/scl/fi/4y38c7hvvkjo20p3ghems/.txt?rlkey=qfyvro9e2muftg8m67haoip6w&st=4vbyhd2j&dl=0",
@@ -29,6 +41,12 @@ author:"UPDATE 2 Dec 2024",
 "import": "true"
 },
 {
+  "name": "หนังเกาหลี | Nung2HD",
+  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+  "url": "https://freenote.biz/raw/zknTU6a4gF",
+"import": "true"
+},
+{
 "name" : "Indian Movies",
 "image" : "https://img2.imgbiz.com/imgbiz/48.jpg",
 "url" : "https://pastejustit.com/raw/yxkuseiphi",
@@ -38,6 +56,12 @@ author:"UPDATE 2 Dec 2024",
 "name" :  "Movie & Series",
 "image" : "https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.gif",
 "url" : "https://pastebin.com/h6MtXfMf",
+"import": "true"
+},
+{
+ "name": "หนังใหม่ 2024",
+ "image": "https://img2.pic.in.th/pic/Movies.gif",
+"url": "https://note.vg/raw/new-movies",
 "import": "true"
 },
 {
@@ -52,6 +76,40 @@ author:"UPDATE 2 Dec 2024",
 "url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
 "import": "true"
 },
-
+{
+"name": "หนังภาคต่อ1",
+"image": "https://img5.pic.in.th/file/secure-sv1/T9.gif",
+"url": "https://note.vg/raw/movie-time",
+"import": "true"
+},
+{
+"name"         :     "หนังจีนและซีรีย์",
+"image"        :     "https://img2.imgbiz.com/imgbiz/uq.jpg",
+"url"          :     "https://pastejustit.com//raw/4ejjtvobjb",
+"import": "true"
+},
+{
+  "name": "หนังภาคต่อ",
+  "author": "เจียว เจียว อัพวันที่ 20 กุมภาพันธ์ 2567",
+  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
+"import": "true"
+},
+{
+    "name": "ซีรีย์พากย์ไทย",
+    "author": "11-06-2024",
+    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+    "url": "https://pastejustit.com/raw/akaexffl0o",
+"import": "true"
+},
+{
+  "name": "ขอมา",
+  "author": "เจียว เจียว อัพวันที่ 20 กุมภาพันธ์ 2567",
+  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url"          :     "https://pastejustit.com/raw/9oepow78n5",
+"import": "true"
+},
 ]
 }
