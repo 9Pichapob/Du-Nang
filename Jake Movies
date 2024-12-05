@@ -29,21 +29,15 @@ author:"UPDATE 2 Dec 2024",
 "import": "true"
 },
 {
-"name"              :     "Series NaDu",
-"image"             :     "https://img2.pic.in.th/pic/hi-everybody-mickey-mouse.gif",
-"url"               :     "https://yamcode.com/raw/series-430",
+"name"              :     "MOVIES NaDu",
+"image"             :     "https://img5.pic.in.th/file/secure-sv1/T3.gif",
+"url"               :     "https://note.vg/raw/movies-nadu",
 "import": "true"
 },
 {
 "name" : "หนังไทย",
 "image" : "https://img2.pic.in.th/pic/tiny-toons-looniversity-babs-bunny.gif",
 "url" : "https://www.dropbox.com/scl/fi/yxcksv3vtn4tp8efbxwrz/.w3u?rlkey=4kcy7vo01i25fevaagbbolnpf&st=jsrlc3fk&dl=1",
-"import": "true"
-},
-{
-  "name": "หนังเกาหลี | Nung2HD",
-  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-  "url": "https://freenote.biz/raw/zknTU6a4gF",
 "import": "true"
 },
 {
@@ -59,27 +53,9 @@ author:"UPDATE 2 Dec 2024",
 "import": "true"
 },
 {
- "name": "หนังใหม่ 2024",
- "image": "https://img2.pic.in.th/pic/Movies.gif",
-"url": "https://note.vg/raw/new-movies",
-"import": "true"
-},
-{
-"name"         :     "Jakeหนัง",
-"image"        :     "https://img5.pic.in.th/file/secure-sv1/65.gif",
-"url"          :     "https://pastejustit.com/raw/zhvrnyuicv",
-"import": "true"
-},
-{
 "name"         :     "Jake Nang   หนังภาคต่อ",
 "image"        :     "https://img2.imgbiz.com/imgbiz/47.jpg",
 "url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
-"import": "true"
-},
-{
-"name": "หนังภาคต่อ1",
-"image": "https://img5.pic.in.th/file/secure-sv1/T9.gif",
-"url": "https://note.vg/raw/movie-time",
 "import": "true"
 },
 {
@@ -94,21 +70,6 @@ author:"UPDATE 2 Dec 2024",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 "url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
-"import": "true"
-},
-{
-    "name": "ซีรีย์พากย์ไทย",
-    "author": "11-06-2024",
-    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
-    "url": "https://pastejustit.com/raw/akaexffl0o",
-"import": "true"
-},
-{
-  "name": "ขอมา",
-  "author": "เจียว เจียว อัพวันที่ 20 กุมภาพันธ์ 2567",
-  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
-  "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url"          :     "https://pastejustit.com/raw/9oepow78n5",
 "import": "true"
 },
 ]
