@@ -1,6 +1,6 @@
 {
 "name": "Jake Movies",
-author:"UPDATE 12 Oct 2024",
+author:"UPDATE 2 Dec 2024",
 "image": "https://img2.pic.in.th/pic/movie-time.gif",
 "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/Jake%20Movies",
 "groups": [
@@ -11,39 +11,15 @@ author:"UPDATE 12 Oct 2024",
                 "import": "false" },
 
 {
-"name": "หนังภาคต่อ",
-"image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
-"url": "https://raw.githubusercontent.com/9Pichapob/test/refs/heads/main/Sequel%20Film",
-"import": "true"
-},
-{
-"name": "หนังอินเดีย",
-"image": "https://img2.imgbiz.com/imgbiz/48.jpg",
-"url": "https://dl.dropboxusercontent.com/scl/fi/zk903smasjknr5tb4qkk6/.w3u?rlkey=sebwit9p8pxyqe1g4d730pr6a&st=xd4wa4e9&dl=0",
-"import": "true"
-},
-{
 "name": "ซีรีย์พากษ์ไทย",
 "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
 "url": "https://dl.dropboxusercontent.com/scl/fi/4y38c7hvvkjo20p3ghems/.txt?rlkey=qfyvro9e2muftg8m67haoip6w&st=4vbyhd2j&dl=0",
 "import": "true"
 },
 {
-"name": "Korean Movie",
-"image": "https://img5.pic.in.th/file/secure-sv1/wei.gif",
-"url": "https://freenote.biz/raw/zknTU6a4gF",
-"import": "true"
-},
-{
-"name": "Series Movies",
-"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url":"https://pastejustit.com//raw/4ejjtvobjb",
-"import": "true"
-},
-{
 "name"              :     "Series NaDu",
 "image"             :     "https://img2.pic.in.th/pic/hi-everybody-mickey-mouse.gif",
-"url"               :     "https://pastebin.com/raw/0YxfuHVJ",
+"url"               :     "https://yamcode.com/raw/series-430",
 "import": "true"
 },
 {
@@ -59,21 +35,9 @@ author:"UPDATE 12 Oct 2024",
 "import": "true"
 },
 {
-"name"         :     "รวมหนัง",
-"image"        :     "https://img2.imgbiz.com/imgbiz/Collection.jpeg",
-"url"          :     "https://pastejustit.com/raw/zhvrnyuicv",
-"import": "true"
-},
-{
 "name" :  "Movie & Series",
 "image" : "https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.gif",
 "url" : "https://pastebin.com/h6MtXfMf",
-"import": "true"
-},
-{
-"name" : "หนังเกาหลี",
-"image" : "https://img5.pic.in.th/file/secure-sv1/23-JakeMoviesTV.jpeg",
-"url" : "https://freenote.biz/raw/zknTU6a4gF",
 "import": "true"
 },
 {
@@ -88,30 +52,6 @@ author:"UPDATE 12 Oct 2024",
 "url"          :     "https://pastejustit.com/raw/6mc8pnpyjo",
 "import": "true"
 },
-{
-"name"              :     "Series Thai dubbed",
-"image"             :     "https://img2.pic.in.th/pic/fun-tv.gif",
-"url"               :     "https://pastejustit.com/raw/akaexffl0o",
-"import": "true"
-},
-{
- "name": "Jake Series",
- "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
-"url": "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/Jake%20Series",
-"import": "true"
-},
-{
-"name": "Walking dead",
-"image": "https://www.kubhd.com/wp-content/uploads/2024/04/The-Walking-Dead-The-Ones-Who-Live-2024.webp",
-"url": "https://drive.google.com/uc?id=1LR54Y7mgduci2S4HuyPSf5wZUfpBWGzX",
-"import": "true"
-},
-{
-"name": "Prison Break",
-"image": "https://www.serie-day.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
-"url": "https://drive.google.com/uc?id=1Qnb_uPyQjWd1nQOK67OXNm7i7Prs87FH",
-"import": "true"
-},
- 
+
 ]
 }
