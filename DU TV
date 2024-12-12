@@ -2232,823 +2232,222 @@ playInNatPlayer: "true"},
 },
 ]},
 
-   { 
-         "name": "Test movies-live",
-         "image": "https://img2.pic.in.th/pic/L4.jpg",
-         "stations": 
-	  [ 
+{		
+        "name": "คอนเสิร์ต",	
+        "image": "https://img2.pic.in.th/pic/L4.jpg",
+        "stations": [
 
-{
-name:"HBO",
-image:"https://www.img07.xyz/assets/img/ch_logo/hd-hbo.jpg",
-url:"http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115675&extension=ts&play_token",
-"referer": "https://wacth.tv/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
-
-{
-name:"HBO",
-image:"https://www.img07.xyz/assets/img/ch_logo/hd-hbo.jpg",
-url:"https://sv2.wacthstream.com/wacth_tv/3BB_HBO/playlist.m3u8?m3u8",
-"referer"           :  "https://www.ballnaja.com/",
-"userAgent":"	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
-
-{
-name:"HBOHit",
-image:"https://www.img03.xyz/assets/img/ch_logo/hd-hbohits.jpg",
-url:"https://m2.ballnaja.com:8443/HBOHITS/playlist.m3u8?",
-"referer"           :  "https://www.ballnaja.com/",
-"userAgent":"	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
- 
-{
-name:"HBOSignature",
-image:"https://www.img03.xyz/assets/img/ch_logo/hd-hbosignature.jpg",
-url:"https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8?",
-"referer"           :  "https://www.ballnaja.com/",
-"userAgent":"	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
-  
-{
-name:"WARNER TV",
-image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-url:"https://m1.ballnaja.com/ais_Warner_TV/tracks-v1a1/mono.m3u8?",
-"referer"           :  "https://www.ballnaja.com/",
-"userAgent":"	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
- 
-{
-name:"WARNER TV",
-image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-url:"https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=hd-warnertv&api_key=n3uf98s",
-"referer": "https://ufanance.co",
- "embed":"true"
-},
- 
-{
-name:"AXN",
-image:"https://www.img03.xyz/assets/img/ch_logo/hd-axn.png",
-url:"https://m2.ballnaja.com:8443/AXN/tracks-v1a1/mono.m3u8?",
-"referer"           :  "https://www.ballnaja.com/",
-"userAgent":"	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140","playInNatPlayer": "true"
-},
-
-{
-"name": "AXN-HD",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-axn-hd.webp",
-"imageScale": "fitStart",
-"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?",
-"referer": "https://streaming.livescorethai.net",
-"userAgent" : "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; InfoPath.3)",
-        "embed":""
-        },
-
-{
-"name": "TH-AXN",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-axn-hd.webp",
-"imageScale": "fitStart",
-"url": "https://2nud.short.gy/axn.m3u8",
-"referer": "https://ufanance.co",
-"userAgent" : "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; InfoPath.3)",
-        "embed":""
-        },
-  
-{
-name:"TRUE ASIAN MORE",
-image:"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.webp",
-url:"https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=hd-asianmore&api_key=n3uf98s",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
-
-{
-name:"TRUE CHINESE MORE",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESplhvw4Wgu3Ai4OMuDm0AzPU7VLzUvMtIA&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"True Korean More",
-image:"https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_320.webp",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"TRUE FILM 1",
-image:"http://tvsmagazine.com/images/channels/sm_176.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"TRUE FILM 2",
-image:"http://tvsmagazine.com/images/channels/sm_221.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"TVB",
-image:"http://tvsmagazine.com/images/channels/sm_048.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmcb4rf66f",
-"referer": "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"TRUE FILM Asia",
-image:"http://tvsmagazine.com/images/channels/sm_006.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=n3uf98s",
-"referer"           :  "https://ufanance.co",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Thai FILM Test",
-image:"http://tvsmagazine.com/images/channels/sm_006.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-thaifilm&api_key=n3uf98s",
-"referer"           :  "https://ufanance.co",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-  
-{
-name:"True Thai Film",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aFOlCXIL5vb1bbIj7HBFAxnESfOBZZ7v1tKCdeagIByjZN_4TZweM64&s=10",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"True Series",
-image:"https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
-  
-{
-name:"True Series",
-image:"https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=n3uf98s",
-"referer"           :  "https://ufanance.co",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"True Moviehits",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSp6AZOjXidQAoGM_J4ejL6Qv9HhHCligvjKq5TkhHf_tdZT0&s",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Paramount Network",
-image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/482px-Paramount_Network.svg.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"CSI Crimes Investigation",
-image:"https://rentapi.blackboxsys.net/images/png/sd-ci.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-ci&api_key=hmcb4rf66f",
-"referer"           :  "https://dooball66s.com/",
-"userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.115",
-"playInNatPlayer": "true"
-},
-  
-{
-name:"FWMOV",
-image:"https://img.inwiptv.net/postor/20200512164154fwmov.jpg",
-url:"https://www.inwiptv.com/player_demo.php?channel=95262",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"FWSOV",
-image:"https://img.inwiptv.net/postor/20200512165346fwsov.jpg",
-url:"https://www.inwiptv.com/player_demo.php?channel=94898",
-"playInNatPlayer": "true"
-},
-
-{
-name:"Rock Action",
-image:"https://hwc-statics.ais.th/play/images/channel/ch_logo-rock.jpg",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=n3uf98s",
-"referer": "https://ufanance.co",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"ROCK Entertainment",
-image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=n3uf98s",
-"referer": "https://ufanance.co",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Channel 8",
-image:"https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
-url:"https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"BOX FILM",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC52/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
-  
-{
-name:"SAMURAI",
-image:"https://sv1.picz.in.th/images/2022/10/11/p851JI.png",
-url:"https://61.19.242.134/feed/202306140918/LC2/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"จอมยุทธ์",
-image:"https://www.img.in.th/images/e10c700f4d8dd261452f5558e8fefc5b.jpg",
-url:"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"มังกร",
-image:"https://www.img04.xyz/assets/img/ch_logo/MANGORN.png",
-url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Sanook",
-image:"https://sv1.picz.in.th/images/2022/10/11/p856A9.png",
-url:"https://61.19.242.134/feed/202306140918/LC53/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Movie world 1",
-image:"https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png",
-url:"https://61.19.242.134/feed/202306140918/LC11/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"Mix Major Channel",
-image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",
-url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"MVTV Series",
-image:"https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png",
-url:"https://edge6a.v2h-cdn.com/mv_series/mv_series.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"TVB Thai",
-image:"https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
-url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"7flix",
-image:"https://sv1.picz.in.th/images/2023/02/28/e4oVwf.jpg",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"NK Movies",
-image:"https://sv1.picz.in.th/images/2023/04/02/mKtQWW.png",
-url:"http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"MONO29 Plus",
-image:"https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4",
-url:"https://www.ballnaja.com/television/MONO29%20Plus",
-"embed": "true",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"HITS MOVIES",
-image:"https://www.hitstv.com/assets/logo-HITSMOVIES.png",
-url:"https://www.ballnaja.com/television/HITS%20Movies",
-"embed": "true",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"3BB ASIAN",
-image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",
-url:"https://www.ballnaja.com/television/3BB%20Asian",
-"embed": "true",
-"playInNatPlayer": "true"
-},
- 
-{
-"name":"3bbasian  🇹🇭",
-"image":"https://dookeela.live/uploads/1703829940.png",
-"url":"https://dookeela.live/live-tv/3bbasian?", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"HBO 🇹🇭",
-"image":"https://dookeela.live/uploads/1703686191.png",
-"url":"https://dookeela.live/live-tv/hbo", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"HBO Family  🇹🇭",
-"image":"https://dookeela.live/uploads/1703786776.png",
-"url":"https://dookeela.live/live-tv/hbo-family", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"HBO Hits  🇹🇭",
-"image":"https://dookeela.live/uploads/1703786599.png",
-"url":"https://dookeela.live/live-tv/hbo-hits", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"HBO Signature  🇹🇭",
-"image":"https://dookeela.live/uploads/1703786305.png",
-"url":"https://dookeela.live/live-tv/hbo-signature", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"Cinemax  🇹🇭",
-"image":"https://dookeela.live/uploads/1703786799.png",
-"url":"https://dookeela.live/live-tv/cinemax", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"Warner TV  🇹🇭",
-"image":"https://dookeela.live/uploads/1703832225.png",
-"url":"https://dookeela.live/live-tv/warnertv", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"TVN  🇹🇭",
-"image":"https://dookeela.live/uploads/1703833429.png",
-"url":"https://dookeela.live/live-tv/tvn-indonesia", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name":"Mono29Plus  🇹🇭",
-"image":"https://dookeela.live/uploads/1703787733.png",
-"url":"https://dookeela.live/live-tv/mono29pius", 
-"referer": "https://dookeela.live/", 
-"info": "Server https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
-
-{
-"name"		: "3BB-ASIAN",
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/k5f2ezykuf7bu0lo89n6m/3bb-asian.png?rlkey=46jhafjb478nhlq6rgitqsyiv&dl=0",
-"url"		: 	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=281&tv=3BBAsian",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://goal-th.com/",
-"ibm"		: 	"m3u8"
-},
-{
-"name"		: "MONOPLUS",
-"image"		: "https://dl.dropboxusercontent.com//scl/fi/sm2gukpo8cp26gvjeo0up/mono29plus.png?rlkey=oepnrqba1t46yj1db981kjya3&dl=0",
-"url"		: 	"https://dookeela.live/live-tv/mono29plus/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
- { 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
-"url"            : "https://wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "Bodyslam Live in คราม",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3414.jpg",
+"url": "https://hengku666.com/bodyslam-live-in-%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1.html", "playInNatPlayer": "true"},
+{"name": "Genie Fest 16 (2014) บันทึกการแสดงสด Genie Fest 16 ปีแห่งความร็อก",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1535.jpg",
+"url": "https://hengku666.com/genie-fest-16-2014-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-genie-fest-16-%e0%b8%9b%e0%b8%b5%e0%b9%81.html", 
 "playInNatPlayer": "true"},
-
-{ 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
- "url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:b9:72&stream=115416&&extension=m3u8",
-"referer": "http://kungtv.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"info"           : "kungtv",
-"playInNatPlayer": "true"
-},
-
-{ 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
-"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8",
-"info":"livescorethai",
-"referer": "https://freetvdd.com"
-},
- { 
-"name"		: "True Film1 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/yrla82h5fgbr3mhjedazt/TRUEFILM1.png?rlkey=ia7scuo9qjimf94wgcay3j3ky&dl=0", 
-url:"https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
-
- { 
-"name"		: "True Film2 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/006mhk7tamumcoghf9mgj/truefilm2.png?rlkey=23f6x40p1mya2pjmuxw7eqek8&dl=0", 
-"url": "http://playtv.my.id/play/truefilm2.m3u8",
-"referer": "https://ufanance.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"info"           : "playtv.my.id",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film Asia 🇹🇭",
-"image": "https://dl.dropboxusercontent.com/scl/fi/ffnfin7evnnikc29ot35q/truefilm-ASIA.png?rlkey=1ny32wphjr1i1sqjwe8flhbzo&dl=0",
-"url"            : "https://wacthstream.com/stream_live/237_TrueFilmAsia./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "บันทึกการแสดงสด Bodyslam ปรากฏการณ์ ดัมมะชาติ",
+"image": "https://hengku666.com/wp-content/uploads/2020/12/2594.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-bodyslam-%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%81%e0%b8%8f%e0%b8%81.html", 
 "playInNatPlayer": "true"},
-
-{ 
-"name"        : "TRUE Series 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/v25dsmgdk9qpisje6iz9a/trueseries.png?rlkey=sxqv7m1yltg94rtkbryu1vvi8&dl=0", 
-url:"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true"
-}, 
-{ 
-"name"        : "Movie Hits 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0",
-"url"            : "https://wacthstream.com/stream_live/224_MovieHit./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "บันทึกการแสดงสด POTATO LIVE (2016) Chang Music Connection Presents POTATO LIVE",    "image": "https://hengku666.com/wp-content/uploads/2021/01/3134.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-potato-live-2016-chang-music-connection-presents-potato-live.html", 
 "playInNatPlayer": "true"},
-
- { 
-"name"        : "Movie Hits 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0", 
-"url"		: "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
-
-{ 
-"name"        : "True Asian More 🇹🇭", 
-"image"        : "https://dl.dropboxusercontent.com/scl/fi/rpfjgq970fl98kxxunaar/True-Asian-More.png?rlkey=346lcsr2oog8440fyx3iuoh6p&dl=0",
-"url":"https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=", "referer":"https://wacth.tv", "info": "wacth.tv", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name"		: "CCM (TH)",
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/07vj6ejtvjeo8dqfz6k3v/CCMTrue.png?rlkey=sm44gwrfrsi2netkzgj5ys3bb&dl=0",
-"url"		      : "https://wacthstream.com/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"info": "wacth.tv",
-"referer": "https://wacth.tv/"
-},
-{
-"name"		:	"Paramount Network", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/hoomhw97d4b59r8snci1e/Paramount-Network.png?rlkey=jsmp4sgcwzemf53c4xdht2p7b&dl=0",
-"url"		: 	"https://dookeela.live/live-tv/paramount-network/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		:	"Paramount Network", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/hoomhw97d4b59r8snci1e/Paramount-Network.png?rlkey=jsmp4sgcwzemf53c4xdht2p7b&dl=0",
-"url"            : "https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
-"playInNatPlayer": "true"}, 
-
-{'name'		:	'ROCK ENTERTAINMENT',
-'image'		:	'https://dl.dropboxusercontent.com/scl/fi/pgtmp7wnjbl9qa9zi00i6/ROCK-ENTERTAINMENT.png?rlkey=snio8hsx1lff9vwoqf55z4029&dl=0',
-"url"		: "https://streaming.livescorethai.net/iptv/hd-rtlcbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
-
-{'name'		:	'ROCK ENTERTAINMENT',
-'image'		:	'https://dl.dropboxusercontent.com/scl/fi/pgtmp7wnjbl9qa9zi00i6/ROCK-ENTERTAINMENT.png?rlkey=snio8hsx1lff9vwoqf55z4029&dl=0',
-"url"            : "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
-"playInNatPlayer": "true"}, 
-
-{'name'		:	'ROCK Action 🇹🇭 ',
-'image'		:	'https://dl.dropboxusercontent.com/scl/fi/qnr16gmzvkmh2q19opv0y/ROCK-Action.png?rlkey=fm0zngf7cs9shrjnioeepifh8&dl=0',
-"url"            : "https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "Justin Bieber Never Say Never (2011) จัสติน บีเบอร์ ฝันให้ดังคับโลก (เสียงไทย)",
+"image": "https://hengku666.com/wp-content/uploads/2022/11/13699.jpg",
+"url": "https://hengku666.com/justin-bieber-never-say-never-2011-%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99-%e0%b8%9a%e0%b8%b5%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%83.html", "playInNatPlayer": "true"},
+{"name": "Apple Music Live – Ed Sheeran (2023)",
+"image": "https://hengku666.com/wp-content/uploads/2023/05/15562.jpg",
+"url": "https://hengku666.com/apple-music-live-ed-sheeran-2023.html", 
 "playInNatPlayer": "true"},
-
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url"            : "https://wacthstream.com/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "TAYLOR SWIFT | THE ERAS TOUR (2023)",
+"image": "https://hengku666.com/wp-content/uploads/2023/10/16867.jpg",
+"url": "https://hengku666.com/taylor-swift-the-eras-tour-2023.html", 
 "playInNatPlayer": "true"},
-
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url"		      : "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer":"https://freetvdd.com/",
-"info":"livescorethai"
-}, 
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url"		: 	"https://dookeela.live/live-tv/warnertv/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"        	: 	"AXN HD ", 
-"image"        	: 	"https://dl.dropboxusercontent.com/scl/fi/c24s7cyp1uh6lw0qmr1ej/AXN.png?rlkey=pfhzjmsgm6jlbk7j6c6tldpgp&dl=0",
-"url"		: "https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
-
-{
-"name": "    KBS WORLD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/gg62rkqc56s8y97erv1ed/KBS-WORLD_.png?rlkey=a89rmj33yqyj8ctuhkwinc6oa&dl=0",
-"url":"https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=", "referer":"https://wacth.tv", "info": "wacth.tv", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name"		:	"TVN", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/0cmc2ueyt7icncqr0366e/TVN.png?rlkey=70k1u6olbxvnz6a1ksr8zco89&dl=0",
-"url"		: 	"https://dookeela.live/live-tv/tvn-indonesia/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-
-{
-"name": "            KMTV",
-"image": "https://dl.dropboxusercontent.com/scl/fi/iy62e091ratpwkwwtdg6q/KMTV.png?rlkey=xefx6ncqsqb0jywjpcj6q01k7&dl=0",
-"url":"https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=", "referer":"https://wacth.tv", "info": "wacth.tv", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name":" TrueMusic ",
-"image":"https://dl.dropboxusercontent.com/scl/fi/vml4wi61q4wdswh8b8oej/TrueMusic.png?rlkey=4dqm5j7r4jhxakqv7y7nwlcy2&dl=0",
-"url":"https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=", "referer":"https://wacth.tv", "info": "wacth.tv", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name"		: "3BB-ASIAN",
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/k5f2ezykuf7bu0lo89n6m/3bb-asian.png?rlkey=46jhafjb478nhlq6rgitqsyiv&dl=0",
-"url"		: 	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=281&tv=3BBAsian",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://goal-th.com/",
-"info"        :         "goal-th",
-"ibm"		: 	"m3u8"
-},
-{
-"name"		: "MONOPLUS",
-"image"		: "https://dl.dropboxusercontent.com//scl/fi/sm2gukpo8cp26gvjeo0up/mono29plus.png?rlkey=oepnrqba1t46yj1db981kjya3&dl=0",
-"url"		: 	"https://dookeela.live/live-tv/mono29plus/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info"        :         "goal-th",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
-"url"		: 	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=307&tv=TrueThaiFilm",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://goal-th.com/",
-"info"        :         "goal-th",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
-"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"info":"livescorethai",
-"referer": "https://freetvdd.com"
-},
-{ 
-"name"		: "Thai Film 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/5xf61j1urfnp7ynp1gid3/Thai-Film-TH.png?rlkey=99u56yy6ef7gm4yzzks9lraxp&dl=0", 
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-thaifilm&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
-"playInNatPlayer": "true"
-},
- { 
-"name"		: "True Film1 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/yrla82h5fgbr3mhjedazt/TRUEFILM1.png?rlkey=ia7scuo9qjimf94wgcay3j3ky&dl=0", 
-url:"https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
-
- { 
-"name"		: "True Film1 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/yrla82h5fgbr3mhjedazt/TRUEFILM1.png?rlkey=ia7scuo9qjimf94wgcay3j3ky&dl=0", 
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
-"playInNatPlayer": "true"
-},
- { 
-"name"		: "True Film2 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/006mhk7tamumcoghf9mgj/truefilm2.png?rlkey=23f6x40p1mya2pjmuxw7eqek8&st=3cmvj5vz&dl=0", 
-"url": "https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDc6MTg6MTQgUE0maGFzaF92YWx1ZT1BRkVWdFJveS8xOXRiM2M3VFMzK1NnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzA0NDc=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "Taylor Swift Miss Americana (2020) เทย์เลอร์ สวิฟต์ มิส อเมริกาน่า",
+"image": "https://hengku666.com/wp-content/uploads/2021/06/8296.png",
+"url": "https://hengku666.com/taylor-swift-miss-americana-2020-%e0%b9%80%e0%b8%97%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%aa%e0%b8%a7%e0%b8%b4%e0%b8%9f%e0%b8%95%e0%b9%8c-%e0%b8%a1%e0%b8%b4%e0%b8%aa.html", 
 "playInNatPlayer": "true"},
- { 
-"name"		: "True Film2 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/006mhk7tamumcoghf9mgj/truefilm2.png?rlkey=23f6x40p1mya2pjmuxw7eqek8&st=3cmvj5vz&dl=0", 
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
-"playInNatPlayer": "true"
-},
-{
-"name": "TrueFilmAsia 🇹🇭",
-"image": "https://dl.dropboxusercontent.com/scl/fi/ffnfin7evnnikc29ot35q/truefilm-ASIA.png?rlkey=1ny32wphjr1i1sqjwe8flhbzo&st=rcif18ng&dl=0",
-"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://streaming.livescorethai.net",
-"info":"livescorethai",
-"playInNatPlayer": "true"
-}, 
-{ 
-"name"        : "TRUE Series 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/v25dsmgdk9qpisje6iz9a/trueseries.png?rlkey=sxqv7m1yltg94rtkbryu1vvi8&dl=0", 
-url:"https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true"
-}, 
-{ 
-"name"        : "Movie Hits 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0",
-"url"            : "https://wacthstream.com/stream_live/224_MovieHit./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDc6MTg6MTQgUE0maGFzaF92YWx1ZT1BRkVWdFJveS8xOXRiM2M3VFMzK1NnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzA0NDc=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
+{"name": "Taylor Swift The 1989 World Tour Live (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5594.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b9%80%e0%b8%97%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-taylor-swift-the-1989-world-tour-live.html", 
 "playInNatPlayer": "true"},
-
- { 
-"name"        : "Movie Hits 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0", 
-"url"		: "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-"referer": "https://freetvdd.com", 
-"info":"livescorethai",
-"playInNatPlayer": "true" },
- { 
-"name"        : "Movie Hits 🇹🇭", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0", 
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=sd-moviehits&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
+{"name": "คอนเสิร์ต Loso เพื่อเพื่อน",
+"image": "https://hengku666.com/wp-content/uploads/2020/09/172.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-loso-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99.html", 
+"playInNatPlayer": "true"},
+{"name": "Silly Fools FatLive V3 ขบวนการซิลลี่ ฟูลส์ คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1066.jpg",
+"url": "https://hengku666.com/silly-fools-fatlive-v3-%e0%b8%82%e0%b8%9a%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%8b%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b8%b5%e0%b9%88-%e0%b8%9f%e0%b8%b9%e0%b8%a5%e0%b8%aa%e0%b9%8c-%e0%b8%84.html", 
+"playInNatPlayer": "true"},
+{"name": "ปู พงษ์สิทธิ์ คำภีร์ บันทึกการแสดงสดคอนเสิร์ต [รักเดียว…เสมอ]",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1162.jpg",
+"url": "https://hengku666.com/%e0%b8%9b%e0%b8%b9-%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b9%8c-%e0%b8%84%e0%b8%b3%e0%b8%a0%e0%b8%b5%e0%b8%a3%e0%b9%8c-%e0%b8%9a%e0%b8%b1%e0%b8%99.html", 
+"playInNatPlayer": "true"},
+{"name": "คอนเสิร์ต The One & Only 10 years of Aof Pongsak",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/2001.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-the-one-only-10-years-of-aof-pongsak.html",
+"playInNatPlayer": "true"},
+{"name": "Bodyslam 13 คอนเสิร์ต บอดี้สแลมสิบสาม",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3385.jpg",
+"url": "https://hengku666.com/bodyslam-13-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89%e0%b8%aa%e0%b9%81%e0%b8%a5%e0%b8%a1%e0%b8%aa%e0%b8%b4.html", 
+"playInNatPlayer": "true"},
+{"name": "คอนเสิร์ต อัสนี วสันต์ 30 ปี สวัสดีครับ",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5194.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%ad%e0%b8%b1%e0%b8%aa%e0%b8%99%e0%b8%b5-%e0%b8%a7%e0%b8%aa%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b9%8c-30-%e0%b8%9b.html", 
+"playInNatPlayer": "true"},
+{"name": "LoL Mak Mak บันทึกการแสดงสด หล่อมากมาก คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5620.jpg",
+"url": "https://hengku666.com/lol-mak-mak-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%a1.html", 
+"playInNatPlayer": "true"},
+{"name": "Da Endorphine Magic of the Night Concert คอนเสิร์ต ดา เอ็นโดรฟิน",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5395.jpg",
+"url": "https://hengku666.com/da-endorphine-magic-of-the-night-concert-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%94%e0%b8%b2-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%99%e0%b9%82%e0%b8%94.html", 
+"playInNatPlayer": "true"},
+{"name": "Lizzo: Live in Concert (2022)",
+"image": "https://hengku666.com/wp-content/uploads/2023/01/14487.jpg",
+"url": "https://hengku666.com/love-lizzo-2022.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด POTATO LIVE GO ON Concert",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5187.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-potato-live-go-on-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "J20 Anniversary concert (2012) คอนเสิร์ต เจ เจตริน 20 ปี","image": "https://hengku666.com/wp-content/uploads/2021/04/5167.jpg","url": "https://hengku666.com/j20-anniversary-concert-2012-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b9%80%e0%b8%88-%e0%b9%80%e0%b8%88%e0%b8%95%e0%b8%a3%e0%b8%b4%e0%b8%99-20-%e0%b8%9b.html", "playInNatPlayer": "true"},
+{"name": "Clash Rebirth the Final Concert (2011) คอนเสิร์ต แคลช ครั้งสุดท้าย",
+"image": "https://hengku666.com/wp-content/uploads/2021/04/5160.jpg",
+"url": "https://hengku666.com/clash-rebirth-the-final-concert-2011-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b9%81%e0%b8%84%e0%b8%a5%e0%b8%8a-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89.html", 
+"playInNatPlayer": "true"},
+{"name": "Ruam Wong THONGCHAI (2016) บันทึกการแสดงสด รวมวง Thongchai Concert ตอน สุขใจนักเพราะรักคำเดียว",        "image": "https://hengku666.com/wp-content/uploads/2021/03/4239.jpg",
+"url": "https://hengku666.com/ruam-wong-thongchai-2016-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%a7.html", 
+"playInNatPlayer": "true"},
+{"name": "Bodyslam (2016) Live Pattaya Music Festival",
+"image": "https://hengku666.com/wp-content/uploads/2021/01/3225.jpg",
+"url": "https://hengku666.com/bodyslam-2016-live-pattaya-music-festival.html", 
+"playInNatPlayer": "true"},
+{"name": "Bodyslam Concert นั่งเล่น (2013)",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3473.jpg",
+"url": "https://hengku666.com/bodyslam-concert-%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-2013.html", 
+"playInNatPlayer": "true"},
+{"name": "Friday Fat Live Friday Concert",
+"image": "https://hengku666.com/wp-content/uploads/2021/01/1653.jpg",
+"url": "https://hengku666.com/friday-fat-live-friday-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "Sek Loso Live In Thailand Concert",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1986.jpg",
+"url": "https://hengku666.com/sek-loso-live-in-thailand-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "Concert Cocktail The Heartless Live (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1716.jpg",
+"url": "https://hengku666.com/concert-cocktail-the-heartless-live-2015.html", 
+"playInNatPlayer": "true"},
+{"name": "Big Ass & Bodyslam Concert (2005) บิ๊กบอดี้คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1468.jpg",
+"url": "https://hengku666.com/big-ass-bodyslam-concert-2005-%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c.html", 
+"playInNatPlayer": "true"},
+{"name": "D2B Encore Concert (2015) มหัศจรรย์…ความคิดถึง",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1443.jpg",
+"url": "https://hengku666.com/d2b-encore-concert-2015-%e0%b8%a1%e0%b8%ab%e0%b8%b1%e0%b8%a8%e0%b8%88%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b9%8c%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6.html", 
+"playInNatPlayer": "true"},
+{"name": "Retrospect & Sweet Mullet (RTSM) vs The world Concert",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1442.jpg",
+"url": "https://hengku666.com/retrospect-sweet-mullet-rtsm-vs-the-world-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด 7 Wonders Concert [คอนเสิร์ต มาใหม่]",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1290.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-7-wonders-concert-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa.html",
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด เจมส์ จิรายุ Magic James The Concert (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/998.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%88%e0%b8%b4.html", "playInNatPlayer": "true"},
+{"name": "Real Rock Concert 10Years Blackhead คอนเสิร์ต 10 ปีแบล็คเฮด",
+"image": "https://hengku666.com/wp-content/uploads/2020/09/405.jpg",
+"url": "https://hengku666.com/real-rock-concert-10years-blackhead-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-10-%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%9a%e0%b8%a5%e0%b9%87%e0%b8%84%e0%b9%80.html", 
+"playInNatPlayer": "true"},
+{"name": "Encanto at the Hollywood Bowl (2022) Encanto ที่ Hollywood Bowl",
+"image": "https://hengku666.com/wp-content/uploads/2023/01/14441.jpg",
+"url": "https://hengku666.com/encanto-at-the-hollywood-bowl-2022-encanto-%e0%b8%97%e0%b8%b5%e0%b9%88-hollywood-bowl.html", 
+"playInNatPlayer": "true"},
+{"name": "Concert The Masterpiece 30 ปี ดี้-นิติพงษ์ ห่อนาค",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5631.png",
+"url": "https://hengku666.com/concert-the-masterpiece-30-%e0%b8%9b%e0%b8%b5-%e0%b8%94%e0%b8%b5%e0%b9%89-%e0%b8%99%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c-%e0%b8%ab%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%b2.html", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 1 (1995)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/7383c873b82fbf87e764c423f9e52adf-220x220.jpg.webp",
+"url": "https://hplay.hdplayfull.xyz/ee5cc252-127e-4bc1-b9e3-060df8a23edb/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 2 (1996)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-2-1996-210x300.webp",
+"url": "https://hplay.hdplayfull.xyz/aea79885-a916-4670-98e0-0801707798db/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 3 (1997)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-3-1997.webp",
+"url": "https://hplay.hdplayfull.xyz/a9792bc0-fc42-4caf-a2f6-0029f3ffda31/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 4 (1999)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-4-1999-212x300.webp",
+"url": "https://hplay.hdplayfull.xyz/ca42b21b-87fe-4c1f-80ff-a1edd67eaa2a/0",
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 5 (2002)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-5-2002-211x300.webp",
+"url": "https://hplay.hdplayfull.xyz/f22db7fb-6be1-4031-8f7d-c04ca94c8033/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 6 (2003)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-6-2003-209x300.webp",
+"url": "https://hplay.hdplayfull.xyz/5dcad5fb-e1f4-4d4a-ae01-c67f484e58ae/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 7 (2008)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-7-2008-227x300.webp",
+"url": "https://hplay.hdplayfull.xyz/d7d81219-972d-4c6f-ad8f-ecee65a4b418/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 7.5 (2008)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-7.5-2008-213x300.webp",
+"url": "https://hplay.hdplayfull.xyz/c2840115-d619-4903-a388-9cc1f79f6543/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 8 (2010)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-8-2010-213x300.webp",
+"url": "https://hplay.hdplayfull.xyz/c56d1d1c-d8cc-4270-83e2-49c7614923bf/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 9 (2011)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-9-2011-235x300.webp",
+"url": "https://hplay.hdplayfull.xyz/8534c02b-87df-45c3-821b-3d17602fbe31/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 9.5 (2011)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-9.5-2011-219x300.webp",
+"url": "https://hplay.hdplayfull.xyz/92987e8e-265c-4136-a9eb-a15b3357a84a/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 10 (2013)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-10-2013-240x300.webp",
+"url": "https://hplay.hdplayfull.xyz/96ae3f27-3d96-4c70-98d6-64cf8f3be534/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 11 (2015)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-11-2015-212x300.webp",
+"url": "https://hplay.hdplayfull.xyz/daedeb6a-38e7-4860-8b92-9a4e4bf01abf/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยว หมู่ อุดม แต้พานิช (2016)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A-2016-193x300.webp",
+"url": "https://hplay.hdplayfull.xyz/d33cff13-8b7c-4089-9ed6-d138f03f6fc9/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 12 (2018)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-12-2018-225x300.webp",
+"url": "https://hplay.hdplayfull.xyz/e3776fc3-ac82-40c2-aec4-b5025ce96bbe/0", 
+"playInNatPlayer": "true"},
+{"name": "ดูหนัง เดี่ยว 13 (2022)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/08/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13-2022-e1692763720125.webp",
+"url": "https://hplay.hdplayfull.xyz/8974b176-1224-40b1-9721-3eda2b0dd4e1/0", 
+"playInNatPlayer": "true"},
+{"name": "Stand up Comedy (2023) หมู่ 2",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/06/Stand-up-Comedy-2023.webp",
+"url": "https://hplay.hdplayfull.xyz/148fea3b-16df-4f73-91e0-0c7313305b35/0",
+"playInNatPlayer": "true"},
+{"name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+"image": "https://www.kubhd.com/wp-content/uploads/2024/04/Deaw-Special-Super-Soft-Power-2024-e1713426085119.webp",
+"url": "https://hplay.hdplayfull.xyz/0d38dbd7-9162-44f1-bd58-80a3cc70321b/0", 
+"playInNatPlayer": "true"},
+{"name": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
+"image": "https://www.kubhd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-e1706521911241.webp",
+"url": "https://hplay.hdplayfull.xyz/10e3803e-870b-4112-bba8-66541a8ba362/0", 
 "playInNatPlayer": "true"
-},
-{ 
-"name"		:	"Paramount Network", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/hoomhw97d4b59r8snci1e/Paramount-Network.png?rlkey=jsmp4sgcwzemf53c4xdht2p7b&dl=0",
-"url"		: 	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=303&tv=ParamountNetwork",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://goal-th.com/",
-"info"        :         "goal-th",
-"ibm"		: 	"m3u8"
-},
-{
-"name"		:	"Paramount Network", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/hoomhw97d4b59r8snci1e/Paramount-Network.png?rlkey=jsmp4sgcwzemf53c4xdht2p7b&dl=0",
-"url"		: 	"https://dookeela.live/live-tv/paramount-network/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url"		: 	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=282&tv=WarnerTV",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://goal-th.com/",
-"info"        :         "goal-th",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url"		: 	"https://dookeela.live/live-tv/warnertv/",
-"userAgent"	: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"referer"	: 	"https://dookeela.live/",
-"ibm"		: 	"m3u8"
-},
-{ 
-"name"		: "Warner TV", 
-"image"		: "https://dl.dropboxusercontent.com/scl/fi/smmgt0iaz2fzo96rh2piq/Warner-TV-TH.png?rlkey=vy9tfs29yp3cotloaw903lgoc&dl=0", 
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-warnertv&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
-"playInNatPlayer": "true"
-},
-{ 
-"name"        	: 	"AXN HD ", 
-"image"        	: 	"https://dl.dropboxusercontent.com/scl/fi/c24s7cyp1uh6lw0qmr1ej/AXN.png?rlkey=pfhzjmsgm6jlbk7j6c6tldpgp&dl=0",
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-axn&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-"info": "720 livesod365",
-"playInNatPlayer": "true"
-},
-{
-"name": "ROCK ACTION HD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/qnr16gmzvkmh2q19opv0y/ROCK-Action.png?rlkey=fm0zngf7cs9shrjnioeepifh8&st=93bc3kj4&dl=0",
-"url": "https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDc6MTg6MTQgUE0maGFzaF92YWx1ZT1BRkVWdFJveS8xOXRiM2M3VFMzK1NnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzA0NDc=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
-"playInNatPlayer": "true"},
-
-{
-"name": "ROCK ACTION HD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/qnr16gmzvkmh2q19opv0y/ROCK-Action.png?rlkey=fm0zngf7cs9shrjnioeepifh8&st=93bc3kj4&dl=0",
-"url": "https://dookeela.live/live-tv/rock-action",
-"playInNatPlayer": "true"},
-
-{
-"name": "Rock Entertainment HD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/pgtmp7wnjbl9qa9zi00i6/ROCK-ENTERTAINMENT.png?rlkey=snio8hsx1lff9vwoqf55z4029&st=o0islew4&dl=0",
-"url": "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDc6MTg6MTQgUE0maGFzaF92YWx1ZT1BRkVWdFJveS8xOXRiM2M3VFMzK1NnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzA0NDc=",
-"referer"        : "https://wacth.tv",
-"info"           : "wacth.tv",
-"playInNatPlayer": "true"},
-
-{
-"name": "Rock Entertainment HD",
-"image": "https://dl.dropboxusercontent.com/scl/fi/pgtmp7wnjbl9qa9zi00i6/ROCK-ENTERTAINMENT.png?rlkey=snio8hsx1lff9vwoqf55z4029&st=o0islew4&dl=0",
-"url": "https://dookeela.live/live-tv/rock-entertainment",
-"playInNatPlayer": "true"},
-]},
+    }
+   ]		
+  },
 
    { 
          "name": "Test Dookela",
