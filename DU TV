@@ -2036,188 +2036,152 @@ playInNatPlayer: "true"},
          "stations": 
 	  [ 
 
- {
-"name": "3HD",
-"image": "https://img2.pic.in.th/pic/ZOO-crop67e4fdc0122bb667.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "5 HD",
+"image": "https://img.inwiptv.net/postor/202002080013505 HD.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27190",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "5HD",
-"image": "https://img2.pic.in.th/pic/ZOO-crop55688b7aaa510198.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "nbt",
+"image": "https://img.inwiptv.net/postor/20200208001411nbt.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "7HD",
-"image": "https://img2.pic.in.th/pic/7f9e3a73d6811b9be.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "thai pbs",
+"image": "https://img.inwiptv.net/postor/20200208001455thai pbs.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27188",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "MCOT HD",
-"image": "https://img2.pic.in.th/pic/MC.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "TPTV",
+"image": "https://img.inwiptv.net/postor/2021042201435420201204002025TPTV.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27186",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "NBT HD",
-"image": "https://img2.pic.in.th/pic/nbt66318e2dfd687b3a.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "tnn24",
+"image": "https://img.inwiptv.net/postor/20200208001644tnn24.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27179",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "TPBS HD",
-"image": "https://img2.pic.in.th/pic/tpbs3e42051cb566eac9.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "nation",
+"image": "https://img.inwiptv.net/postor/20200208001721nation.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27162",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "THAIRAHT",
-"image": "https://img2.pic.in.th/pic/thai1f02e97842ce3840.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "workpoint",
+"image": "https://img.inwiptv.net/postor/20200208001739workkpoint.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "ONE HD",
-"image": "https://img2.pic.in.th/pic/one265bc09cb867a94e.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "true4u",
+"image": "https://img.inwiptv.net/postor/20200208001753true4u.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27156",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "AMARIN TV",
-"image": "https://img2.pic.in.th/pic/AMA.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "gmm 25",
+"image": "https://img.inwiptv.net/postor/20200208001804gmm 25.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27153",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "PPTV HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/PPTV.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd//index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "ch 8",
+"image": "https://img.inwiptv.net/postor/20200208001820ch 8.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27147",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": MONO29",
-"image": "https://img2.pic.in.th/pic/MONO.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "mono29",
+"image": "https://img.inwiptv.net/postor/20200208001956mono29.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27144",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "WORKPOINT TV",
-"image": "https://img2.pic.in.th/pic/WOR.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "mcot",
+"image": "https://img.inwiptv.net/postor/20200208002015mcot.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "GMM TV",
-"image": "https://img2.pic.in.th/pic/12303bd332e8894e5cc.png",
-"url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "one",
+"image": "https://img.inwiptv.net/postor/20200208002141one.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "TRUE4U",
-"image": "https://img5.pic.in.th/file/secure-sv1/TRU2f5d8fbe9bf1442d.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "thairath",
+"image": "https://img.inwiptv.net/postor/20200208002208thairath.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "TNN24",
-"image": "https://img5.pic.in.th/file/secure-sv1/TNN.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn//index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "3 HD",
+"image": "https://img.inwiptv.net/postor/202002080022223 HD.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "NATION22",
-"image": "https://img2.pic.in.th/pic/NAT.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation//index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "amarin tv",
+"image": "https://img.inwiptv.net/postor/20200208002253amarin tv.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27135",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "JKN18",
-"image": "https://img5.pic.in.th/file/secure-sv1/JKN.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv//index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "7 HD",
+"image": "https://img.inwiptv.net/postor/202002080029087 HD.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27132",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "CH8",
-"image": "https://img2.pic.in.th/pic/86e10c04b6b3acc65.png",
-"url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "pptvhd",
+"image": "https://img.inwiptv.net/postor/20200208002945pptvhd.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "ALTV4",
-"image": "https://uppic.cloud/ib/056hXLfS3S.png",
-"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "fwmov",
+"image": "https://img.inwiptv.net/postor/20200512164154fwmov.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "TPTV",
-"image": "https://img5.pic.in.th/file/secure-sv1/TPTV.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "fwsov",
+"image": "https://img.inwiptv.net/postor/20200512165346fwsov.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "POLICE",
-"image": "https://img2.pic.in.th/pic/POL.png",
-"url": "http://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w1654756275.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "fw teletoon",
+"image": "https://img.inwiptv.net/postor/20200512162950fw teletoon(1).jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89780",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
-{
-"name": "T SPORTS",
-"image": "https://img2.pic.in.th/pic/TSP.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
+{ "name": "ฟาร์มทีวี HD",
+"image": "https://img.inwiptv.net/postor/20211007195247ฟาร์มทีวี HD.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89429",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
+},
+{ "name": "ถิ่นใต้",
+"image": "https://img.inwiptv.net/postor/20200208001241ถิ่นใต้.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=61235",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
 },
 ]},
+
 {
  "name": "ห้อง Music",
  "author": "(❁‿❁)Jake(❁‿❁)",
  "image": "https://img2.pic.in.th/pic/T7.gif",
  "groups": [
+
 {		
         "name": "คอนเสิร์ต",	
         "image": "https://img2.pic.in.th/pic/L4.jpg",
