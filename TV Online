@@ -97,6 +97,21 @@
 "playInNatPlayer": "true"
 },       
 {
+"name": "IZAAMOVIE",
+"image": "https://i.ibb.co/B53tBWkh/logoizaamovie.png",
+"url": "http://203.154.243.89:11001/izaa?m3u8",
+"referer": "http-user-agent=ห้ามแชร์",
+"playInNatPlayer": "true"
+},
+{
+"name": "Universal",
+"image": "https://i.ibb.co/MxZHkhvV/logo-universal.png", 
+"url" : "http://49.0.64.96:8007/H-Channel",
+"referer": "http-user-agent=ห้ามแชร์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},        
+{
 "name": "HBO HD ",
 "image": "https://i.ibb.co/6v0dDhD/vbs.png",
 "url": "https://dookeela.live/live-tv/hbo#",
