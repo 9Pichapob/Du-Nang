@@ -11,6 +11,12 @@
                 "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/DU%20TV",
                 "import": false },
 
+{ 
+   "name": "DU TV",
+   "image": "https://img2.pic.in.th/pic/L4.jpg",
+   "url": "https://www.freenote.biz/raw/8l9p2metwz",
+   "import": true},
+
 {"name": "PREMIUM PLAY TV",
 "image": "https://i.ibb.co/B53tBWkh/logoizaamovie.png",
 "url": "https://freenote.biz/raw/af4qsczseh",
